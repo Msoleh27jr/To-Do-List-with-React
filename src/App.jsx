@@ -7,7 +7,7 @@ import IconButton from '@mui/material/IconButton';
 import Tooltip from '@mui/material/Tooltip';
 import TextField from '@mui/material/TextField';
 const label = { inputProps: { 'aria-label': 'Checkbox demo' } };
-const API = "http://localhost:3000/data"
+const API = "https://67d5514bd2c7857431f00311.mockapi.io/Users"
  
  const App = () => {
   const [data , setData ] = useState([])
