@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Ali",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "Yusuf",
+      "status": "true"
+    },
+    {
+      "id": "3",
+      "name": "Soleh",
+      "status": false
+    }
+  ]
+}

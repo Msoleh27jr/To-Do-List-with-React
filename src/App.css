@@ -1,0 +1,33 @@
+.box {
+  background-color: rgb(236, 231, 231);
+  width: 320px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  border-radius: 20px;
+}
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.forBox {
+  padding: 20px;
+  max-width: 1900px;
+  margin: auto;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.allDiv {
+  max-width: 1900px;
+  margin: auto;
+  padding: 20px;
+}
+.inpEdit {
+  background-color: gray;
+  color: white;
+  padding: 7px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
